@@ -1,0 +1,7 @@
+repositories = [
+{
+	"title": "Meu Título",
+	"url": "https://minhaurl.com",
+	"techs": ["React", "Javascript", "Django"]
+}
+]
